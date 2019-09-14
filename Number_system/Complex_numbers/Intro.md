@@ -33,3 +33,8 @@ X = i or 1i
 
 Thhis is all from where complex number started. 
 
+
+## Application : - 
+
+Complex numbers are used to handle imaginary data and their operations. Most of the polynomial equation's root are imaginary . Above is the simplest example of polynomial equation having imaginary data. There could be more polynomial equation which may have -1 as a square root and where the complex number plays a big role while solving them and calculating their roots.
+
