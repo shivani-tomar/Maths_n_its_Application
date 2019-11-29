@@ -27,10 +27,10 @@ Probability of choosing a red ball will be -
 probability of choosing red ball  from bag A = 1/2 * 3/7
                                                 (as there are two bags , so we also need to choose bag A whose probability is 1/2)
                                                 
-probability of choosing red ball from bag B = 1/2 * 4*7
+probability of choosing red ball from bag B = 1/2 * 4/7
 
 
-so, total probability of choosing a red ball will be  =  1/2*3/7  + 1/2*4/7
+so, total probability of choosing a red ball will be  =  1/2 * 3/7  + 1/2 * 4/7
 
 probability of choosing red ball from bag A will be - 
 
